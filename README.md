@@ -1,0 +1,2 @@
+# crystal-animation
+🏃‍♀️ Crystalでterminal animation
